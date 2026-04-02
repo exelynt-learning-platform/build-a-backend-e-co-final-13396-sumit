@@ -1,0 +1,3 @@
+com\ecommerce\entity\Product.class
+com\ecommerce\exception\UnauthorizedException.class
+com\ecommerce\exception\ResourceNotFoundException.class
